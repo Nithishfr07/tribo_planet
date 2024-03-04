@@ -1,0 +1,35 @@
+{"tasks":[
+    {
+        "id":1,
+        "name":"SDGTask1",
+        "description":"Sustainable well being"
+    },
+    {
+        "id":2,
+        "name":"SDGTask2",
+        "description":"Sustainable well being"
+    },
+    {
+        "id":3,
+        "name":"SDGTask3",
+        "description":"Sustainable well being"
+    }
+],
+"projects":[
+    {
+        "id":1,
+        "name":"SDGProject1",
+        "description":"Sustainable well being"
+    },
+    {
+        "id":2,
+        "name":"SDGProject1",
+        "description":"Sustainable well being"
+    },
+    {
+        "id":3,
+        "name":"SDGProject1",
+        "description":"Sustainable well being"
+    }
+]
+}
